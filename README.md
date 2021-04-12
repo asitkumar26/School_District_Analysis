@@ -17,7 +17,7 @@ Purpose of this project is to analyze how the school performances have been and 
     - All top 5 performing schools are Charter School types where student population is moderately low.
     
 
-    ![High Performing Schools from challenge](/Resources/High-performing-schools.png)
+![High Performing Schools from challenge](/Resources/High-performing-schools.png)
 
 ### Low Performing Schools
 
@@ -27,7 +27,7 @@ Purpose of this project is to analyze how the school performances have been and 
      concerned they are pretty much same schools. 
      
 
-    ![Low Performing Schools from challenge](/Resources/Low-performing-schools.png)
+![Low Performing Schools from challenge](/Resources/Low-performing-schools.png)
 
 ### Math Scores by Grades per school
 
@@ -36,7 +36,7 @@ Purpose of this project is to analyze how the school performances have been and 
     - In comparision to the 'Math Scores by Grades' result done in the course, the challenge has similar result
     except for 'Thomas High school' for the obvious reason. 
 
-    ![Math Scores By Grade from challenge](/Resources/Math-scores-by-grade.png)
+![Math Scores By Grade from challenge](/Resources/Math-scores-by-grade.png)
 
 
 ### Reading Scores by Grades per school
@@ -46,7 +46,7 @@ Purpose of this project is to analyze how the school performances have been and 
     - In comparision to the 'Reading Scores by Grades' result done in the course, the challenge has similar result
     except for 'Thomas High school' for the obvious reason. 
 
-     ![Reading Scores By Grade from challenge](/Resources/Reading-scores-by-grade.png)
+![Reading Scores By Grade from challenge](/Resources/Reading-scores-by-grade.png)
 
 
 ### Scores by school Spending
@@ -54,7 +54,7 @@ Purpose of this project is to analyze how the school performances have been and 
     - As spending ranges per student increase, the '% Oveall Passing' decreases. 
     - Compared to the results of the course, the challenge has same result. 
 
-    ![Overall Scores By School Spending from challenge](/Resources/Scores-by-spending.png)
+![Overall Scores By School Spending from challenge](/Resources/Scores-by-spending.png)
 
 
 ### Scores by school size
@@ -62,7 +62,7 @@ Purpose of this project is to analyze how the school performances have been and 
     - Schools having more than 2000 students, the '% Overall Passing' decreases significantly.
     - Compared to the results of the course, the challenge task outcome for this is same.
     
-    ![Overall Scores By School Size from challenge](/Resources/Scores-by-schoolsize.png)
+![Overall Scores By School Size from challenge](/Resources/Scores-by-schoolsize.png)
 
 ### Scores by school district type
 
@@ -70,7 +70,7 @@ Purpose of this project is to analyze how the school performances have been and 
     - Especially '% Passing Math' for district schools is very low(67%~) compared to Charter school which is quite high (97%~).
     - Compared to the results of the course, the challenge task outcome for this one is same.  
 
-    ![Overall Scores By School District from challenge](/Resources/Scores-by-district.png)
+![Overall Scores By School District from challenge](/Resources/Scores-by-district.png)
 
 ## School District Analysis Summary:
      
