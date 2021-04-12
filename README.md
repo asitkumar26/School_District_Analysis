@@ -1,4 +1,4 @@
-# School_District_Analysis
+# School District Analysis
 ## Overview & Purpose of Project:
 
 This project is about School district analysis where the insights about the school performances have been derived to analyze further. The results
