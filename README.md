@@ -4,7 +4,7 @@
 This project is about School district analysis where the insights about the school performances have been derived to analyze further. The results
 have been derived primarily in 2 different slices i.e. District wise and School wise analysis.
 
-Purpose of this project is to analyze how the school performances have been and if any trend can be derived so that it can be improvised further.
+Purpose of this project is to analyze how the school performances have been and if any trend can be derived so that it can be improvised further in future.
 
 
 ## School District Analysis Results:
@@ -32,7 +32,7 @@ Purpose of this project is to analyze how the school performances have been and 
 ### Math Scores by Grades per school
 
     - As far as Average Math score is concerned, not a big variations of score among different grades for a school
-    is not there except 'Thomas High School' where Math grades have not been considered.
+    is there except 'Thomas High School' where Math grades have not been considered.
     - In comparision to the 'Math Scores by Grades' result done in the course, the challenge has similar result
     except for 'Thomas High school' for the obvious reason. 
 
